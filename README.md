@@ -5,7 +5,9 @@ An intrusion detection system capable of classifying different types of network 
 
 
 ## Installation & Usage
+# data set kaggle 
 
+https://www.kaggle.com/datasets/hassan06/nslkdd
 
 # Install dependencies
 pip install -r requirements.txt  
