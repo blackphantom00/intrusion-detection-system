@@ -7,11 +7,15 @@ An intrusion detection system capable of classifying different types of network 
 ## Installation & Usage
 
 
-pip install -r requirements.txt   # Install dependencies
+# Install dependencies
+pip install -r requirements.txt  
 
-python train.py                   # Full model training
+# Full model training
+python train.py    
 
-python src/api/app.py             # Launch web interface 
+# Launch web interface 
+python src/api/app.py  
 
-python -m pytest tests/ -v        # Run unit tests
+# Run unit tests
+python -m pytest tests/ -v      
 
